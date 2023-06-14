@@ -9,4 +9,7 @@ The goal of this project is to reduce the direct costs of our fictitious company
 
 The cost reduction in our project was produced by using mixed-integer optimization methods to generate routes that reduce the total distance traveled among all transfer vehicles. According to a former colleague that worked at a real-life IHT company based in Charlotte, North Carolina, the standard procedure is to dispatch vehicles to transfer requests using simple, greedy approaches. This motivates clear opportunities of improvement using optimization.
 
+Our [web dashboard](https://max-petruzzi.github.io/) displays the optimal routes for each vehicle given a pre-defined demand, both in the case of robustness to traffic and without traffic.
+
 ![Poster](https://github.com/rachit-0032/Patient-Transfer-Optimization/blob/main/Reports/Submission/15093_Poster_Image.png)
+
